@@ -1,3 +1,5 @@
 {
-    "server-jar": "paper-1.19-40.jar"
+    "server-jar": "paper-1.19-40.jar",
+    "minimum-ram": "1024M",
+    "max-ram": "2048M"
 }
